@@ -10,4 +10,4 @@ Random dev joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Visitor Count](https://profile-counter.glitch.me/GowthamParamasivam/count.svg)
+![](https://komarev.com/ghpvc/?username=GowthamParamasivam&label=PROFILE+VIEWS)
