@@ -1,11 +1,12 @@
-### :smiley: Hey! Nice to see you.
+### :smiley: Hey! Nice to see you.  <img src="https://media.giphy.com/media/BTfh7Bd3aCS3OwrYZB/giphy.gif" width=50>
 
-Welcome to my page!
+-----
 
 I'm Gowtham, Software Engineer from :india: **Tamil Nadu, India**. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gowtham-paramasivam/)
-
+[comment]: <> ([![Linkedin]&#40;https://i.stack.imgur.com/gVE0j.png&#41; LinkedIn]&#40;https://www.linkedin.com/in/gowtham-paramasivam/&#41;)
+[![Linkedin: Gowtham Paramasivam](https://img.shields.io/badge/-Gowtham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gowtham-paramasivam/)](https://www.linkedin.com/in/gowtham-paramasivam/)
+[![GitHub Gowtham Paramasivam](https://img.shields.io/github/followers/GowthamParamasivam?label=follow&style=social)](https://github.com/GowthamParamasivam)
 -------
 ### :bulb: Technologies
 
