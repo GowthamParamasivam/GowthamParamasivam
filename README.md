@@ -9,3 +9,5 @@ I'm Gowtham, Fullstack developer from :india: **Tamil Nadu, India**.
 Random dev joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Visitor Count](https://profile-counter.glitch.me/GowthamParamasivam/count.svg)
